@@ -10,7 +10,7 @@ Atualmente estou aprofundando meus conhecimentos em Python, com foco em projetos
 ## 🛠 Hard Skills
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-<img src="https://www.pythonguis.com/static/images/libraries/pyside6.png" width="98" height="28" />
+<img src="https://www.pythonguis.com/static/images/libraries/pyside6.png" width="98" height="28" background-color:fff/>
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
