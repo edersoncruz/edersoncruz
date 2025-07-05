@@ -91,3 +91,11 @@ Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 
 ---
 
+![Resumo](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=edersoncruz&theme=monokai)
+![Commits](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=edersoncruz&theme=monokai&utcOffset=-3)
+
+
+
+
+
+
