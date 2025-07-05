@@ -1,52 +1,93 @@
-# 👉🏼 Ederson de Souza Cruz
+# Ederson Souza Cruz
 
-Sou formado em Análise e Desenvolvimento de Sistemas e tenho experiência nas áreas de Análise de Software, Suporte Técnico, Customer Success e atualmente atuo com Customer Experience na Hunter Douglas.
-Sempre fui apaixonado por tecnologia, e essa paixão me levou a iniciar uma transição de carreira rumo ao desenvolvimento backend.
-Atualmente estou aprofundando meus conhecimentos em Python, com foco em projetos próprios que me ajudem a conquistar minha primeira oportunidade como Desenvolvedor Python Júnior.
+🎯 Desenvolvedor em transição de carreira com foco em **Python** e back-end. Experiência prévia em suporte técnico e sucesso do cliente, com atuação em ambientes corporativos de alta performance e cloud computing.  
 
+📍 Campinas - SP 
 
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edersoncruz1337@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersoncruz/)
 
+---
 
-## 🛠 Hard Skills
+## 💼 Sobre mim
 
-Linguagens e Frameworks que domino
+Sou formado em Análise e Desenvolvimento de Sistemas, com background sólido em atendimento técnico e análise de software. Estou em transição de carreira para desenvolvimento back-end, com foco em Python e serviços em nuvem.  
+
+Apaixonado por tecnologia, aprendizado constante e soluções práticas. Estou construindo projetos próprios e me aperfeiçoando com cursos intensivos e desafios de programação.
+
+---
+
+## 🚀 Hard Skills
+
+### 🐍 Python e Frameworks / Tecnologias (Avançado)  
+Tenho sólida experiência em Python e suas bibliotecas e frameworks relacionados, incluindo PySide6 para interfaces gráficas, automação com Selenium, desenvolvimento de APIs REST e autenticação via JWT.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![PySide6](https://img.shields.io/badge/PySide6-1C82C3?style=for-the-badge&logo=qt&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-61DAFB?style=for-the-badge&logo=postman&logoColor=black)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtoken&logoColor=white)
 
-Em aprendizado
+---
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+### 🗃️ Banco de Dados (Avançado)  
+Domínio em SQL com foco em consultas, manipulação de dados, joins e otimização.
 
-Ferramentas
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+---
 
-Cloud
+### 🎨 Front-end / Web  
+**Avançado em HTML5 e CSS3**, **Intermediário em JavaScript**. Experiência com criação de páginas, estruturação semântica e integração com back-end.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+---
+
+### ☁️ Cloud Computing (Intermediário)  
+Conhecimento prático em serviços e deploy usando as principais plataformas em nuvem.
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-Sistemas Operacionais
+---
+
+### 💻 Sistemas Operacionais (Intermediário)  
+Administração, uso e manutenção de ambientes Linux e Windows Server.
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows Server](https://img.shields.io/badge/Windows_Server-0078D7?style=for-the-badge&logo=windowsserver&logoColor=white)
 
+---
 
+### 🛠️ Git e Plataformas (Avançado)  
+Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 
+![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
+---
 
+## 📚 Certificações e Cursos
 
+- 🟡 **Python – 5 Estrelas (HackerRank)**  
+- 🟠 **SQL – 2 Estrelas (HackerRank)**  
+- 🎓 Python 3: Do Básico ao Avançado (140h - Udemy)  
+- ☁️ Cloud Onboarding (10h - Alura)  
+- 🧠 Ansible para SysAdmin (Udemy)  
+- 📚 Git e GitHub (Curso em Vídeo)  
+- 📚 JavaScript (Curso em Vídeo)  
 
-## 🔗 Conecte-se comigo
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersoncruz/) 
+---
+
+## 🗣️ Idiomas
+
+- 🇺🇸 Inglês Avançado — Certificado EF SET C1 (68/100)  
+- Comunicação fluente com estrangeiros em ambiente de trabalho e voluntariado
+
+---
+
