@@ -65,6 +65,7 @@ Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 [![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=edersoncruz&theme=tokyonight&hide_border=false&card_height=100)](https://github.com/edersoncruz)
 [![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersoncruz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/edersoncruz)
 ---
+
 ## 🐍 Snake eating my contributions
 ![snake gif](https://github.com/edersoncruz/edersoncruz/blob/output/github-contribution-grid-snake.svg)
 
