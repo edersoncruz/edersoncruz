@@ -67,7 +67,7 @@ Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 ---
 
 ## 🐍 Snake eating my contributions
-![snake gif](https://github.com/edersoncruz/edersoncruz/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/edersoncruz/edersoncruz/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
