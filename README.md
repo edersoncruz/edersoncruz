@@ -62,6 +62,9 @@ Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 ![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=edersoncruz&theme=tokyonight&hide_border=false&card_height=100)](https://github.com/edersoncruz)
+[![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edersoncruz&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)](https://github.com/edersoncruz)
+---
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
