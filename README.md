@@ -45,6 +45,8 @@ Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento
 
 ---
 
-### 🐍 Snake eating my contributions
+### 📫 Entre em contato
 
-![snake gif](https://github.com/edersoncruz/edersoncruz/blob/output/github-contribution-grid-snake-dark.svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edersoncruz)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edersoncruz1337@gmail.com)
+
