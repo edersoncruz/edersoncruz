@@ -71,32 +71,12 @@ Controle de versão com Git, além de uso profissional de GitHub e GitLab.
 ![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
-## 📚 Certificações e Cursos
-
-- 🟡 **Python – 5 Estrelas (HackerRank)**  
-- 🟠 **SQL – 2 Estrelas (HackerRank)**  
-- 🎓 Python 3: Do Básico ao Avançado (140h - Udemy)  
-- ☁️ Cloud Onboarding (10h - Alura)  
-- 🧠 Ansible para SysAdmin (Udemy)  
-- 📚 Git e GitHub (Curso em Vídeo)  
-- 📚 JavaScript (Curso em Vídeo)  
-
----
-
-## 🗣️ Idiomas
-
-- 🇺🇸 Inglês Avançado — Certificado EF SET C1 (68/100)  
-- Comunicação fluente com estrangeiros em ambiente de trabalho e voluntariado
-
----
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
 </picture>
 
-## 🐍 Snake GitHub Contributions
 
-![snake gif](https://github.com/edersoncruz/edersoncruz/blob/output/github-contribution-grid-snake.svg)
+
 
