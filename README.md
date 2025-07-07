@@ -11,7 +11,7 @@
 
 ## 💼 Sobre mim
 
-Sou formado em Análise e Desenvolvimento de Sistemas, com background sólido em atendimento técnico e análise de software. Estou em transição de carreira para desenvolvimento back-end, com foco em Python e serviços em nuvem.  
+Sou formado em Análise e Desenvolvimento de Sistemas, com background sólido em atendimento técnico e análise de software. 
 
 Apaixonado por tecnologia, aprendizado constante e soluções práticas. Estou construindo projetos próprios e me aperfeiçoando com cursos intensivos e desafios de programação.
 
