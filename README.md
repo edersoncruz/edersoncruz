@@ -1,4 +1,4 @@
-# Ederson de Souza Cruz
+# 👨‍💻 Ederson de Souza Cruz
 
 ## 🧠 Quem Sou eu
 
