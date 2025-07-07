@@ -1,6 +1,6 @@
 # Ederson Souza Cruz
 
-🎯 Desenvolvedor em transição de carreira com foco em **Python** e back-end. Experiência prévia em suporte técnico e sucesso do cliente, com atuação em ambientes corporativos de alta performance e cloud computing.  
+🎯 Profissional com experiência em suporte técnico e atendimento ao cliente, com foco no desenvolvimento em Python e soluções back-end. Atuando com tecnologias de cloud computing e ambientes corporativos.
 
 📍 Campinas - SP 
 
