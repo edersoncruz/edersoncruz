@@ -1,23 +1,14 @@
 # Ederson Souza Cruz
 
-🎯 Profissional com experiência em suporte técnico e atendimento ao cliente, com foco no desenvolvimento em Python e soluções back-end. Atuando com tecnologias de cloud computing e ambientes corporativos.
+## 🧠 Quem Sou
 
-📍 Campinas - SP 
+Profissional com experiência em suporte técnico e atendimento ao cliente, com foco em desenvolvimento back-end em Python. Atuo com tecnologias de cloud computing e ambientes corporativos.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edersoncruz1337@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/edersoncruz/)
-
----
-
-## 💼 Sobre mim
-
-Sou formado em Análise e Desenvolvimento de Sistemas, com background sólido em atendimento técnico e análise de software. 
-
-Apaixonado por tecnologia, aprendizado constante e soluções práticas. Estou construindo projetos próprios e me aperfeiçoando com cursos intensivos e desafios de programação.
+Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento em análise de software e estou sempre em busca de aprendizado contínuo. Atualmente, desenvolvo projetos próprios e me aperfeiçoo por meio de cursos intensivos e desafios práticos.
 
 ---
 
-## 🚀 Hard Skills
+## ⚙️ Tecnologias que domino
 
 ### 🐍 Python e Frameworks / Tecnologias (Avançado)  
 Tenho sólida experiência em Python e suas bibliotecas e frameworks relacionados, incluindo PySide6 para interfaces gráficas, automação com Selenium, desenvolvimento de APIs REST e autenticação via JWT.
