@@ -39,12 +39,6 @@ Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento
 
 ---
 
-### 📊 Estatísticas
-
-[![Github Streak](https://github-readme-streak-stats.herokuapp.com/?user=edersoncruz&theme=tokyonight&hide_border=false&card_height=100)](https://github.com/edersoncruz)
-
----
-
 ### 📫 Entre em contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/edersoncruz)
