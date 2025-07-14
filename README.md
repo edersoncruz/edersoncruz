@@ -2,7 +2,7 @@
 
 ## 🧠 Quem Sou eu
 
-Profissional com experiência em suporte técnico e atendimento ao cliente, com foco em desenvolvimento back-end em Python. Atuo com tecnologias de cloud computing e ambientes corporativos.
+Profissional com experiência em suporte técnico e atendimento ao cliente, com foco em desenvolvimento back-end em Python. 
 
 Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento em análise de software e estou sempre em busca de aprendizado contínuo. Atualmente, desenvolvo projetos próprios e me aperfeiçoo por meio de cursos intensivos e desafios práticos.
 
