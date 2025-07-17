@@ -11,31 +11,34 @@ Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento
 
 ### 🗄️Back-End
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=py,qt,django,sqlite&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Front-end / Web  
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
+
+### 🔁 Automação
+
+[![My Skills](https://skillicons.dev/icons?i=selenium,ansible,docker&theme=dark)](https://skillicons.dev)
 
 ### ☁️ Cloud Computing
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/google_cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark)](https://skillicons.dev)
 
 ### 💻 Sistemas Operacionais 
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows Server](https://img.shields.io/badge/Windows_Server-0078D7?style=for-the-badge&logo=windowsserver&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
 
 ### 🛠️ Git e Plataformas
 
-![Git](https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
+
+### 📈 Monitoramento e Observabilidade
+
+[![My Skills](https://skillicons.dev/icons?i=grafana&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="48">
+
+
 
 ---
 
