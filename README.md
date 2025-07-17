@@ -9,58 +9,34 @@ Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento
 
 ## ⚙️ Tecnologias que domino
 
-<table>
-  <tr>
-    <td>
+### 🗄️Back-End
 
-### 🗄️ Back-End  
-<img src="https://skillicons.dev/icons?i=py,qt,django,sqlite&theme=dark" />
-
-</td>
-<td>
+[![My Skills](https://skillicons.dev/icons?i=py,qt,django,sqlite&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Front-end / Web  
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
 
-</td>
-<td>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js&theme=dark)](https://skillicons.dev)
 
-### 🔁 Automação  
-<img src="https://skillicons.dev/icons?i=selenium,ansible,docker&theme=dark" />
+### 🔁 Automação
 
-</td>
-  </tr>
-  <tr>
-    <td>
+[![My Skills](https://skillicons.dev/icons?i=selenium,ansible,docker&theme=dark)](https://skillicons.dev)
 
-### ☁️ Cloud  
-<img src="https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark" />
+### ☁️ Cloud Computing
 
-</td>
-<td>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure&theme=dark)](https://skillicons.dev)
 
-### 💻 SO  
-<img src="https://skillicons.dev/icons?i=linux,windows&theme=dark" />
+### 💻 Sistemas Operacionais 
 
-</td>
-<td>
+[![My Skills](https://skillicons.dev/icons?i=linux,windows&theme=dark)](https://skillicons.dev)
 
-### 🛠️ Git & Plataformas  
-<img src="https://skillicons.dev/icons?i=git,github,gitlab&theme=dark" />
+### 🛠️ Git e Plataformas
 
-</td>
-  </tr>
-  <tr>
-    <td colspan="3">
+[![My Skills](https://skillicons.dev/icons?i=git,github,gitlab&theme=dark)](https://skillicons.dev)
 
-### 📈 Monitoramento  
-<img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
-<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="48" />
+### 📈 Monitoramento e Observabilidade
 
-</td>
-  </tr>
-</table>
-
+[![My Skills](https://skillicons.dev/icons?i=grafana&theme=dark)](https://skillicons.dev)
+<img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/zabbix.svg" width="48">
 
 
 
