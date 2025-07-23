@@ -11,7 +11,7 @@ Formado em Análise e Desenvolvimento de Sistemas, tenho um sólido conhecimento
 
 ### 🗄️Back-End
 
-[![My Skills](https://skillicons.dev/icons?i=py,qt,django,sqlite&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,qt,django,sqlite,mysql&theme=dark)](https://skillicons.dev)
 
 ### 🎨 Front-end / Web  
 
